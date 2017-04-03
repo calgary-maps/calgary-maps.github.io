@@ -1,0 +1,17 @@
+# Site settings
+title: Calgary maps and self-guided tours
+email: burnsr77@gmail.com
+description: > 
+  Interactive web maps for walking tours of Calgary. Some of the tours 
+  are haunted houses, smart technology, public art, and historic spots 
+  around town. Includes walking tours as well as biking. Some driving 
+  may be required! If you'd like to see a map created here, submit a 
+  pull request or shoot me an email.
+baseurl: "calgary-maps.github.io" # the subpath of your site, e.g. /blog/
+url: "calgary-maps.github.io" # the base hostname & protocol for your site
+twitter_username: burnsr77
+github_username:  burnsr77
+
+# Build settings
+markdown: kramdown
+permalink: pretty
